@@ -1,0 +1,436 @@
+{
+  "resume_executif": {
+    "title": "Résumé Exécutif - Performance de Stéphane Bonvin",
+    "cards": [
+      {
+        "title": "Capital Engagé",
+        "value": "1 500 000 €",
+        "description": "Engagement total dans le fonds Patrimonium Climate Infrastructure Opportunity",
+        "icon": "wallet",
+        "color": "blue"
+      },
+      {
+        "title": "Capital Investi",
+        "value": "981 413 €",
+        "description": "65,4% du capital engagé a été appelé à ce jour",
+        "icon": "trending-up",
+        "color": "green"
+      },
+      {
+        "title": "Valeur Actuelle",
+        "value": "1 118 231 €",
+        "description": "Combinaison de performance et de nouveaux investissements",
+        "icon": "bar-chart",
+        "color": "purple"
+      },
+      {
+        "title": "Rendement Total",
+        "value": "+13,9%",
+        "description": "Performance depuis l'investissement initial (septembre 2023)",
+        "icon": "percent",
+        "color": "orange"
+      },
+      {
+        "title": "Rendement Annualisé",
+        "value": "+4,0%",
+        "description": "Performance annualisée depuis l'investissement initial",
+        "icon": "activity",
+        "color": "red"
+      },
+      {
+        "title": "Perspectives",
+        "value": "PCIOF II",
+        "description": "Lancement prévu du second fonds en 2025 avec objectif de 300M€",
+        "icon": "eye",
+        "color": "teal"
+      }
+    ],
+    "details": {
+      "investmentHistory": [
+        { "date": "29 Septembre 2023", "type": "Drawdown", "description": "DD11 - 5th Closing", "amount": 594172 },
+        { "date": "09 Janvier 2024", "type": "Closing", "description": "Final Closing", "amount": -3423 },
+        { "date": "08 Mars 2024", "type": "Drawdown", "description": "DD12 + Equalisation", "amount": 73126 },
+        { "date": "10 Juillet 2024", "type": "Drawdown", "description": "DD13", "amount": 19753 },
+        { "date": "14 Août 2024", "type": "Drawdown", "description": "DD14", "amount": 148401 },
+        { "date": "27 Septembre 2024", "type": "Drawdown", "description": "DD15", "amount": 149383 },
+        { "date": "30 Octobre 2024", "type": "Distribution", "description": "First Distribution", "amount": -49000 }
+      ],
+      "performanceMetrics": {
+        "DPI": 0.05,
+        "RVPI": 1.10,
+        "TVPI": 1.15
+      }
+    }
+  },
+  "impact_ia_energie": {
+    "title": "Impact IA & Besoins Énergétiques",
+    "subtitle": "Analyse des sociétés du portefeuille (>70% du portefeuille)",
+    "sectors": [
+      {
+        "name": "Énergies Renouvelables",
+        "companies": [
+          {
+            "name": "Dolomiti Energia",
+            "country": "Italie",
+            "sector": "Énergie Renouvelable",
+            "invested": "45 M€",
+            "ownership": "5%",
+            "returns": "11.11% / 7.89%",
+            "risk": "Core",
+            "ia_impact": "Modéré - Utilisation de l'IA pour l'optimisation de la production hydroélectrique",
+            "energy_needs": "Faible - Production d'énergie renouvelable nette",
+            "opportunities": "Optimisation de la production via IA prédictive, amélioration de l'efficacité des réseaux",
+            "details": "Opère 45 centrales hydroélectriques avec une capacité totale de 1'656 MW. A surperformé le budget en Q4 2025 grâce à une production hydroélectrique 46% supérieure à la moyenne sur 10 ans."
+          },
+          {
+            "name": "Erneuerbare Energien Fabrik",
+            "country": "Allemagne",
+            "sector": "Énergie Renouvelable",
+            "invested": "9 M€",
+            "ownership": "5.3%",
+            "returns": "1.03x MoC",
+            "risk": "Value-add",
+            "ia_impact": "Élevé - Utilisation de l'IA pour la planification et l'optimisation des parcs éoliens et solaires",
+            "energy_needs": "Modéré - Consommation d'énergie pour les centres de données de modélisation",
+            "opportunities": "Développement de jumeaux numériques pour optimiser le placement des éoliennes",
+            "details": "Développeur allemand spécialisé dans l'éolien terrestre et le solaire PV. Portfolio de 583 MW, dont 261 MW de projets éoliens terrestres et 305 MW de projets solaires PV."
+          },
+          {
+            "name": "Faria Renewables",
+            "country": "Grèce",
+            "sector": "Énergie Renouvelable & Stockage",
+            "invested": "5 M€",
+            "ownership": "20%",
+            "returns": "1.08x MoC",
+            "risk": "Value-add",
+            "ia_impact": "Élevé - Utilisation de l'IA pour la gestion des systèmes hybrides éolien-solaire",
+            "energy_needs": "Modéré - Production d'énergie renouvelable avec stockage",
+            "opportunities": "Optimisation des systèmes de stockage par batterie via algorithmes prédictifs",
+            "details": "Développeur grec fondé en 2016. Possède un portefeuille de projets totalisant environ 4,2 GW, comprenant 1,8 GW d'éolien terrestre, 1,8 GW de photovoltaïque solaire et 0,6 GW de stockage par batterie."
+          }
+        ]
+      },
+      {
+        "name": "Infrastructures Numériques",
+        "companies": [
+          {
+            "name": "euNetworks",
+            "country": "Europe",
+            "sector": "Smart Grids & Transmission",
+            "invested": "2.5 M€",
+            "ownership": "0.5%",
+            "returns": "13-15% (cible)",
+            "risk": "Value-add",
+            "ia_impact": "Très élevé - Infrastructure critique pour les centres de données IA",
+            "energy_needs": "Modéré - Consommation des réseaux de fibre optique",
+            "opportunities": "Expansion stratégique pour répondre à la demande croissante des hyperscalers IA",
+            "details": "Fournisseur européen de services de connectivité pour centres de données, reliant 508 centres de données via 82 400 km de câble, opérant dans 53 villes à travers 17 pays. Croissance du chiffre d'affaires de 3% et de l'EBITDAaL de 5% en octobre YTD."
+          },
+          {
+            "name": "Rowan Digital Infrastructure",
+            "country": "États-Unis",
+            "sector": "Infrastructures Numériques",
+            "invested": "10.50 $m (via Quinbrook)",
+            "ownership": "2.46%",
+            "returns": "2.3x TVPI",
+            "risk": "Value-add",
+            "ia_impact": "Très élevé - Centres de données verts pour l'IA",
+            "energy_needs": "Très élevé - Consommation massive pour les centres de données",
+            "opportunities": "Développement de centres de données à faible empreinte carbone pour l'IA",
+            "details": "Plateforme de centres de données verts aux États-Unis. Utilise du béton préfabriqué pour les projets Bauxite, réduisant l'empreinte carbone de 23% par rapport à la construction conventionnelle. Développe un système de traitement d'eau qui devrait réduire la consommation d'eau de la Phase 1 de plus de 80%."
+          }
+        ]
+      },
+      {
+        "name": "Infrastructures Électriques",
+        "companies": [
+          {
+            "name": "Aurora Infrastructure",
+            "country": "Finlande",
+            "sector": "Smart Grids & Transmission",
+            "invested": "5.2 M€",
+            "ownership": "0.2%",
+            "returns": "12%+ (cible)",
+            "risk": "Core",
+            "ia_impact": "Élevé - Réseaux intelligents essentiels pour l'optimisation énergétique de l'IA",
+            "energy_needs": "Faible - Transmission plutôt que consommation",
+            "opportunities": "Modernisation des réseaux pour supporter la demande croissante des centres de données IA",
+            "details": "Entreprise nordique spécialisée dans la possession, l'exploitation et la modernisation des infrastructures de réseaux électriques privés. Possède les réseaux électriques de deux des plus grands sites industriels stratégiquement importants de Finlande, représentant 6% de la consommation électrique finlandaise."
+          },
+          {
+            "name": "Telecom Castilla La Mancha",
+            "country": "Espagne",
+            "sector": "Smart Grids & Transmission",
+            "invested": "3 M€",
+            "ownership": "5%",
+            "returns": "9.8% / 10.3%",
+            "risk": "Core",
+            "ia_impact": "Modéré - Infrastructure de communication pour les réseaux intelligents",
+            "energy_needs": "Faible - Consommation limitée des tours de télécommunication",
+            "opportunities": "Déploiement de la 5G rurale pour soutenir les applications IA distribuées",
+            "details": "Principal fournisseur de location à long terme de tours de télécommunications à Castilla La Mancha, Espagne. Son réseau comprend 1 038 sites, principalement dans les zones rurales. Dans le cadre du déploiement national d'équipements 5G ruraux, 270 des tours de TCLM recevront de nouveaux équipements et des contrats de location à long terme avec Telefonica."
+          }
+        ]
+      }
+    ]
+  },
+  "repartition": {
+    "title": "Répartition",
+    "charts": {
+      "currency": {
+        "title": "Répartition par Devise",
+        "data": [
+          { "name": "EUR", "value": 75 },
+          { "name": "USD", "value": 15 },
+          { "name": "GBP", "value": 8 },
+          { "name": "Autres", "value": 2 }
+        ]
+      },
+      "investment_type": {
+        "title": "Répartition par Type d'Investissement",
+        "data": [
+          { "name": "Primaires", "value": 60 },
+          { "name": "Co-investissements", "value": 30 },
+          { "name": "Secondaires", "value": 10 }
+        ]
+      },
+      "risk_profile": {
+        "title": "Répartition par Profil de Risque",
+        "data": [
+          { "name": "Core", "value": 45 },
+          { "name": "Core+", "value": 30 },
+          { "name": "Value-add", "value": 25 }
+        ]
+      },
+      "sector": {
+        "title": "Répartition Sectorielle",
+        "data": [
+          { "name": "Énergies Renouvelables", "value": 40 },
+          { "name": "Smart Grids & Transmission", "value": 30 },
+          { "name": "Infrastructures Numériques", "value": 20 },
+          { "name": "Stockage d'Énergie", "value": 10 }
+        ]
+      }
+    }
+  },
+  "apercu": {
+    "title": "Aperçu du Fonds",
+    "fund_overview": {
+      "name": "Patrimonium Climate Infrastructure Opportunity SICAV-RAIF",
+      "strategy": "Investissement dans des infrastructures climatiques en Europe et Amérique du Nord",
+      "target_size": "121.5 M€",
+      "current_size": "121.5 M€",
+      "vintage": "2022",
+      "term": "10 ans + 2 ans d'extension possible",
+      "target_return": "8-10% net IRR",
+      "current_return": "11.0% net IRR (non audité, Q4 2024)",
+      "investment_period": "3 ans (jusqu'à 2025)",
+      "geography": "Europe (75%), Amérique du Nord (25%)",
+      "sectors": "Énergies Renouvelables, Smart Grids & Transmission, Infrastructures Numériques, Stockage d'Énergie"
+    },
+    "performance_metrics": {
+      "nav": "87.97 M€",
+      "distributions": "4.10 M€",
+      "dpi": "0.05x",
+      "tvpi": "1.12x",
+      "rvpi": "1.07x"
+    },
+    "portfolio_composition": {
+      "investments": 10,
+      "committed_capital": "82.18 M€",
+      "unfunded_capital": "39.38 M€",
+      "portfolio_companies": [
+        "Equitix Fund VI",
+        "ICG Infrastructure EF",
+        "Quinbrook Net Zero Power Fund",
+        "Omnes Co-investment Tag",
+        "Equitix Co-investment Aurora Infra",
+        "Equitix Euro Fund I",
+        "Quinbrook Co-investment",
+        "Omnes Capenergie 5",
+        "Stonepeak euNetworks",
+        "EIG Powerfield"
+      ]
+    }
+  },
+  "compte_investisseur": {
+    "title": "Compte Investisseur",
+    "investor": {
+      "name": "Stéphane Bonvin",
+      "commitment": "1 500 000 €",
+      "unfunded": "518 587 €",
+      "drawdowns": "981 413 €",
+      "distributions": "49 000 €",
+      "nav": "1 118 231 €",
+      "share": "1.23%"
+    },
+    "performance": {
+      "dpi": "0.05",
+      "rvpi": "1.10",
+      "tvpi": "1.15"
+    },
+    "transactions": [
+      { "date": "29 Septembre 2023", "type": "Drawdown", "description": "DD11 - 5th Closing", "amount": "594 172 €" },
+      { "date": "09 Janvier 2024", "type": "Closing", "description": "Final Closing", "amount": "-3 423 €" },
+      { "date": "08 Mars 2024", "type": "Drawdown", "description": "DD12 + Equalisation", "amount": "73 126 €" },
+      { "date": "10 Juillet 2024", "type": "Drawdown", "description": "DD13", "amount": "19 753 €" },
+      { "date": "14 Août 2024", "type": "Drawdown", "description": "DD14", "amount": "148 401 €" },
+      { "date": "27 Septembre 2024", "type": "Drawdown", "description": "DD15", "amount": "149 383 €" },
+      { "date": "30 Octobre 2024", "type": "Distribution", "description": "First Distribution", "amount": "-49 000 €" }
+    ],
+    "capital_account": {
+      "committed": "1 500 000 €",
+      "unfunded": "518 587 €",
+      "drawdowns": "981 413 €",
+      "distributions": "-49 000 €",
+      "drawdowns_outside_commitment": "32 610 €",
+      "capital_at_risk": "965 023 €",
+      "income": "19 999 €",
+      "other_expenses": "-31 769 €",
+      "realised_gains_losses": "20 149 €",
+      "unrealised_gains_losses": "133 355 €",
+      "unrealised_fx_gains_losses": "11 474 €",
+      "notional_carried_interest": "0 €",
+      "nav": "1 118 231 €"
+    }
+  },
+  "donnees_fonds": {
+    "title": "Données du Fonds",
+    "balance_sheet": {
+      "assets": {
+        "investments": [
+          { "name": "Patrimonium Climate Infra S.A.", "value": "0 €" },
+          { "name": "Equitix Fund VI", "value": "9 622.2 k€" },
+          { "name": "ICG Infrastructure EF", "value": "6 969.2 k€" },
+          { "name": "Quinbrook Net Zero Power Fund", "value": "9 300.1 k€" },
+          { "name": "Omnes Co-investment Tag", "value": "4 747.5 k€" },
+          { "name": "Equitix Co-investment Aurora Infra", "value": "12 198.3 k€" },
+          { "name": "Equitix Euro Fund I", "value": "8 330.8 k€" },
+          { "name": "Quinbrook Co-investment", "value": "9 141.1 k€" },
+          { "name": "Omnes Capenergie 5", "value": "2 176.0 k€" },
+          { "name": "Stonepeak euNetworks", "value": "12 488.7 k€" },
+          { "name": "EIG Powerfield", "value": "10 403.5 k€" }
+        ],
+        "establishment_costs": "30.4 k€",
+        "cash_and_equivalents": "2 484.3 k€",
+        "debtors_and_prepayments": "4.2 k€",
+        "accounts_receivable": "78.8 k€",
+        "total_assets": "87 975.2 k€"
+      },
+      "equity_liabilities": {
+        "subscribed_capital": "82 182.5 k€",
+        "distributions": "-4 100.0 k€",
+        "attributable_profit_loss": "10 057.4 k€",
+        "notional_carried_interest": "957.1 k€",
+        "revenue_reserve": "-1 292.7 k€",
+        "total_capital_reserves": "87 804.3 k€",
+        "creditors_short_term": "170.9 k€",
+        "creditors_long_term": "0 €",
+        "total_liabilities": "170.9 k€",
+        "total_equity_liabilities": "87 975.2 k€"
+      }
+    },
+    "profit_loss": {
+      "income": {
+        "investment_income": "694.8 k€",
+        "other_income": "75.9 k€",
+        "total_income": "770.7 k€"
+      },
+      "expenses": {
+        "general_organisational": "-6.2 k€",
+        "amortisation": "-30.4 k€",
+        "management_fees": "-775.6 k€",
+        "aifm_fees": "-62.7 k€",
+        "administration_fees": "-115.0 k€",
+        "audit_legal_fees": "-32.9 k€",
+        "professional_fees": "-164.8 k€",
+        "deal_fees": "0 €",
+        "bank_charges_depositary": "-57.7 k€",
+        "equalisation_expenses": "-551.2 k€",
+        "vat_taxes": "-29.2 k€",
+        "forex_gain_loss": "86.3 k€",
+        "total_expenses": "-1 739.4 k€"
+      },
+      "gains_losses": {
+        "unrealised_gain_loss_investments": "9 140.5 k€",
+        "unrealised_gain_loss_forex": "1 122.7 k€",
+        "realised_gain_loss_investments": "1 720.1 k€",
+        "total_gains_losses": "11 983.2 k€"
+      },
+      "profit_loss": "11 014.5 k€"
+    },
+    "cashflow": {
+      "operating_activities": {
+        "profit_loss": "11 014.5 k€",
+        "adjustments": "-11 983.2 k€",
+        "working_capital_changes": "-331.9 k€",
+        "net_cash_operating": "-1 300.6 k€"
+      },
+      "investing_activities": {
+        "investments": "-27 225.6 k€",
+        "distributions_from_investments": "4 100.0 k€",
+        "net_cash_investing": "-23 125.6 k€"
+      },
+      "financing_activities": {
+        "capital_contributions": "32 591.1 k€",
+        "distributions": "-4 100.0 k€",
+        "equalisation": "-4 100.0 k€",
+        "net_cash_financing": "24 391.1 k€"
+      },
+      "net_increase_decrease": "-35.1 k€",
+      "cash_beginning": "2 519.5 k€",
+      "cash_end": "2 484.3 k€"
+    }
+  },
+  "durabilite": {
+    "title": "Durabilité",
+    "sustainability_highlights": [
+      {
+        "company": "Equitix",
+        "initiative": "Développement d'analyses avancées du changement climatique pour les actifs de production d'énergie éolienne, en collaboration avec Sustainable Global et financé par l'Agence spatiale britannique."
+      },
+      {
+        "company": "Aurora Infrastructure Oy",
+        "initiative": "Préparation à la directive européenne sur la publication d'informations en matière de durabilité des entreprises (CSRD), qui deviendra obligatoire pour Aurora à partir de 2025."
+      },
+      {
+        "company": "Viridor Group",
+        "initiative": "Mise en place d'un programme de préparation à l'extension du système d'échange de quotas d'émission du Royaume-Uni (ETS), visant la préparation pour mi-2025."
+      },
+      {
+        "company": "The Aku",
+        "initiative": "Le deuxième projet phare au Portugal permettra d'éviter l'émission de plus de 45 000 tonnes métriques de CO2 par an et aidera la ville de Gavião à devenir une municipalité à énergie positive."
+      },
+      {
+        "company": "Dos Grados",
+        "initiative": "Engagement des écoles locales dans des activités de reboisement à la centrale solaire PV de Fundão, plantation d'arbres et organisation de sessions éducatives sur la production d'énergie renouvelable et la durabilité."
+      }
+    ],
+    "impact_metrics": {
+      "ghg_reduction": "56 519 tonnes",
+      "clean_energy": "63.5 GWh",
+      "installed_capacity": "2 063 MWe",
+      "waste_to_energy": "32 188 tonnes",
+      "households_served": "84 167",
+      "fiber_networks": "175 km",
+      "job_creation": "15",
+      "board_diversity": "31%"
+    },
+    "sdgs": {
+      "primary": [7, 9, 13],
+      "secondary": [8, 11, 12],
+      "tertiary": [6, 15, 17],
+      "allocation": [
+        { "sdg": 7, "percentage": 41 },
+        { "sdg": 9, "percentage": 29 },
+        { "sdg": 13, "percentage": 9 },
+        { "sdg": 8, "percentage": 8 },
+        { "sdg": 11, "percentage": 4 },
+        { "sdg": 12, "percentage": 4 },
+        { "sdg": 6, "percentage": 3 },
+        { "sdg": 15, "percentage": 1 },
+        { "sdg": 17, "percentage": 1 }
+      ]
+    }
+  }
+}

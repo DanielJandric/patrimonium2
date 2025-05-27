@@ -1,0 +1,137 @@
+{
+  "resume_executif": {
+    "title": "Résumé Exécutif - Performance de Stéphane Bonvin",
+    "subtitle": "Analyse détaillée de l'investissement et perspectives",
+    "introduction": "Ce résumé présente une analyse complète de l'investissement de Stéphane Bonvin dans le fonds Patrimonium Climate Infrastructure Opportunity, incluant les performances actuelles, l'historique des transactions et les perspectives futures.",
+    "cards": [
+      {
+        "title": "Capital Engagé",
+        "value": "1 500 000 €",
+        "description": "Engagement total dans le fonds Patrimonium Climate Infrastructure Opportunity",
+        "icon": "wallet",
+        "color": "blue",
+        "details": "Engagement initial effectué lors du 5ème closing en septembre 2023, représentant 1,23% du fonds total de 121,5M€"
+      },
+      {
+        "title": "Capital Investi",
+        "value": "981 413 €",
+        "description": "65,4% du capital engagé a été appelé à ce jour",
+        "icon": "trending-up",
+        "color": "green",
+        "details": "Réparti sur 6 appels de fonds entre septembre 2023 et septembre 2024, avec un rythme d'investissement conforme aux prévisions"
+      },
+      {
+        "title": "Valeur Actuelle",
+        "value": "1 118 231 €",
+        "description": "Combinaison de performance et de nouveaux investissements",
+        "icon": "bar-chart",
+        "color": "purple",
+        "details": "Progression significative par rapport à 634 746€ fin 2023, reflétant à la fois les nouveaux appels de fonds et la performance des actifs sous-jacents"
+      },
+      {
+        "title": "Rendement Total",
+        "value": "+13,9%",
+        "description": "Performance depuis l'investissement initial (septembre 2023)",
+        "icon": "percent",
+        "color": "orange",
+        "details": "Performance légèrement supérieure à celle du fonds global (TVPI de 1,15x contre 1,12x pour le fonds)"
+      },
+      {
+        "title": "Rendement Annualisé",
+        "value": "+4,0%",
+        "description": "Performance annualisée depuis l'investissement initial",
+        "icon": "activity",
+        "color": "red",
+        "details": "Conforme aux attentes pour cette phase précoce du cycle d'investissement, avec une accélération prévue à mesure que les actifs mûrissent"
+      },
+      {
+        "title": "Perspectives",
+        "value": "PCIOF II",
+        "description": "Lancement prévu du second fonds en 2025 avec objectif de 300M€",
+        "icon": "eye",
+        "color": "teal",
+        "details": "Stratégie plus orientée vers les plus-values dans l'univers des infrastructures sensibles au climat, avec un TRI cible de 10-12%"
+      }
+    ],
+    "investment_analysis": {
+      "title": "Analyse Détaillée de l'Investissement",
+      "performance_metrics": {
+        "dpi": {
+          "value": 0.05,
+          "description": "Distribution to Paid-In - Ratio des distributions reçues par rapport au capital investi",
+          "benchmark": "Conforme aux attentes pour un fonds en phase d'investissement (moyenne sectorielle: 0.03-0.07 à ce stade)"
+        },
+        "rvpi": {
+          "value": 1.10,
+          "description": "Residual Value to Paid-In - Ratio de la valeur résiduelle par rapport au capital investi",
+          "benchmark": "Supérieur à la moyenne sectorielle de 1.05 pour les fonds d'infrastructure de même millésime"
+        },
+        "tvpi": {
+          "value": 1.15,
+          "description": "Total Value to Paid-In - Ratio de la valeur totale (distributions + valeur résiduelle) par rapport au capital investi",
+          "benchmark": "Supérieur au TVPI global du fonds (1.12) et à la moyenne sectorielle (1.08)"
+        }
+      },
+      "capital_evolution": {
+        "title": "Évolution du Capital",
+        "description": "Progression du capital investi et de la valeur de l'investissement au fil du temps",
+        "data": [
+          { "date": "29 Septembre 2023", "event": "Premier investissement (DD11)", "capital_investi": 594172, "valeur": 594172 },
+          { "date": "31 Décembre 2023", "event": "Valorisation Q4 2023", "capital_investi": 594172, "valeur": 634746 },
+          { "date": "09 Janvier 2024", "event": "Ajustement Final Closing", "capital_investi": 590749, "valeur": 631323 },
+          { "date": "08 Mars 2024", "event": "Deuxième appel (DD12)", "capital_investi": 663875, "valeur": 704449 },
+          { "date": "10 Juillet 2024", "event": "Troisième appel (DD13)", "capital_investi": 683628, "valeur": 724202 },
+          { "date": "14 Août 2024", "event": "Quatrième appel (DD14)", "capital_investi": 832029, "valeur": 872603 },
+          { "date": "27 Septembre 2024", "event": "Cinquième appel (DD15)", "capital_investi": 981412, "valeur": 1022000 },
+          { "date": "30 Octobre 2024", "event": "Première distribution", "capital_investi": 932412, "valeur": 973000 },
+          { "date": "31 Décembre 2024", "event": "Valorisation Q4 2024", "capital_investi": 932412, "valeur": 1118231 }
+        ]
+      },
+      "transaction_history": {
+        "title": "Historique des Transactions",
+        "description": "Détail chronologique de tous les mouvements de capital",
+        "transactions": [
+          { "date": "29 Septembre 2023", "type": "Drawdown", "description": "DD11 - 5th Closing", "amount": 594172, "cumulative_invested": 594172 },
+          { "date": "09 Janvier 2024", "type": "Closing", "description": "Final Closing", "amount": -3423, "cumulative_invested": 590749 },
+          { "date": "08 Mars 2024", "type": "Drawdown", "description": "DD12 + Equalisation", "amount": 73126, "cumulative_invested": 663875 },
+          { "date": "10 Juillet 2024", "type": "Drawdown", "description": "DD13", "amount": 19753, "cumulative_invested": 683628 },
+          { "date": "14 Août 2024", "type": "Drawdown", "description": "DD14", "amount": 148401, "cumulative_invested": 832029 },
+          { "date": "27 Septembre 2024", "type": "Drawdown", "description": "DD15", "amount": 149383, "cumulative_invested": 981412 },
+          { "date": "30 Octobre 2024", "type": "Distribution", "description": "First Distribution", "amount": -49000, "cumulative_invested": 932412 }
+        ]
+      }
+    },
+    "future_outlook": {
+      "title": "Perspectives et Prochaines Étapes",
+      "capital_calls": {
+        "title": "Appels de Fonds Futurs",
+        "description": "518 587€ (34,6% de l'engagement) restent à appeler",
+        "timeline": "Les appels restants devraient être répartis sur les 12-18 prochains mois, selon le rythme d'investissement du fonds",
+        "opportunities": "Permettront de participer aux nouvelles opportunités d'investissement identifiées par l'équipe de gestion"
+      },
+      "expected_distributions": {
+        "title": "Distributions Attendues",
+        "description": "Après la première distribution de 49 000€ en octobre 2024, d'autres distributions sont prévues",
+        "timeline": "Accélération attendue des distributions à partir de 2025-2026, à mesure que les actifs mûrissent",
+        "projection": "Le DPI devrait atteindre 0.3-0.4 d'ici fin 2026, selon les projections actuelles"
+      },
+      "pciof_ii": {
+        "title": "Opportunité PCIOF II",
+        "description": "Lancement du fonds successeur au T4 2024",
+        "target_size": "300M€ (vs 121.5M€ pour PCIOF I)",
+        "target_return": "TRI cible de 10-12% (vs 8-10% pour PCIOF I)",
+        "strategy": "Stratégie plus orientée vers les plus-values dans l'univers des infrastructures sensibles au climat",
+        "opportunity": "Possibilité de participer au premier closing prévu pour Q1 2025, avec des conditions préférentielles pour les investisseurs existants"
+      },
+      "market_trends": {
+        "title": "Tendances de Marché Favorables",
+        "trends": [
+          "Accélération des investissements dans les infrastructures liées à la transition énergétique",
+          "Demande croissante pour les infrastructures numériques, notamment liées à l'IA",
+          "Politiques publiques favorables (Inflation Reduction Act, European Green Deal)",
+          "Contexte de taux d'intérêt plus favorable avec les baisses amorcées par la BCE et la Fed"
+        ]
+      }
+    }
+  }
+}

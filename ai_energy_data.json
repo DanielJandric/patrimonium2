@@ -1,0 +1,233 @@
+{
+  "title": "Impact IA & Besoins Énergétiques",
+  "subtitle": "Analyse des sociétés du portefeuille (>70% du portefeuille)",
+  "introduction": "L'intelligence artificielle transforme rapidement le paysage des infrastructures énergétiques et numériques. Cette analyse examine comment les sociétés du portefeuille Patrimonium sont exposées à cette révolution technologique, leurs besoins énergétiques associés, et les opportunités stratégiques qui en découlent.",
+  "sectors": [
+    {
+      "name": "Énergies Renouvelables",
+      "description": "Les sociétés d'énergies renouvelables utilisent de plus en plus l'IA pour optimiser la production, prévoir la maintenance et améliorer l'efficacité globale des installations.",
+      "ai_trend": "L'IA permet d'améliorer les prévisions météorologiques, optimiser le placement des installations et prédire les besoins de maintenance, augmentant les rendements de 10-15% en moyenne.",
+      "energy_impact": "Ces sociétés sont généralement des producteurs nets d'énergie, contribuant positivement au bilan énergétique global.",
+      "companies": [
+        {
+          "name": "Dolomiti Energia",
+          "country": "Italie",
+          "sector": "Énergie Renouvelable",
+          "invested": "45 M€",
+          "ownership": "5%",
+          "returns": "11.11% / 7.89%",
+          "risk": "Core",
+          "ia_impact": "Modéré - Utilisation de l'IA pour l'optimisation de la production hydroélectrique",
+          "energy_needs": "Faible - Production d'énergie renouvelable nette",
+          "opportunities": "Optimisation de la production via IA prédictive, amélioration de l'efficacité des réseaux",
+          "details": "Opère 45 centrales hydroélectriques avec une capacité totale de 1'656 MW. A surperformé le budget en Q4 2025 grâce à une production hydroélectrique 46% supérieure à la moyenne sur 10 ans.",
+          "market_cap": "Non coté",
+          "ai_initiatives": [
+            "Système de prévision hydrologique basé sur l'IA",
+            "Maintenance prédictive des turbines",
+            "Optimisation en temps réel des flux d'eau"
+          ],
+          "energy_efficiency": "Rendement énergétique de 92% (vs moyenne sectorielle de 85%)",
+          "future_outlook": "Expansion prévue avec 3 nouvelles centrales d'ici 2026, intégrant des systèmes IA avancés dès la conception"
+        },
+        {
+          "name": "Erneuerbare Energien Fabrik",
+          "country": "Allemagne",
+          "sector": "Énergie Renouvelable",
+          "invested": "9 M€",
+          "ownership": "5.3%",
+          "returns": "1.03x MoC",
+          "risk": "Value-add",
+          "ia_impact": "Élevé - Utilisation de l'IA pour la planification et l'optimisation des parcs éoliens et solaires",
+          "energy_needs": "Modéré - Consommation d'énergie pour les centres de données de modélisation",
+          "opportunities": "Développement de jumeaux numériques pour optimiser le placement des éoliennes",
+          "details": "Développeur allemand spécialisé dans l'éolien terrestre et le solaire PV. Portfolio de 583 MW, dont 261 MW de projets éoliens terrestres et 305 MW de projets solaires PV.",
+          "market_cap": "Non coté",
+          "ai_initiatives": [
+            "Jumeaux numériques pour l'optimisation des parcs éoliens",
+            "Algorithmes prédictifs pour la production solaire",
+            "Systèmes autonomes de détection de défauts"
+          ],
+          "energy_efficiency": "Augmentation de 17% du rendement des parcs éoliens grâce à l'IA",
+          "future_outlook": "Développement d'une plateforme IA propriétaire pour la commercialisation auprès d'autres opérateurs"
+        },
+        {
+          "name": "Faria Renewables",
+          "country": "Grèce",
+          "sector": "Énergie Renouvelable & Stockage",
+          "invested": "5 M€",
+          "ownership": "20%",
+          "returns": "1.08x MoC",
+          "risk": "Value-add",
+          "ia_impact": "Élevé - Utilisation de l'IA pour la gestion des systèmes hybrides éolien-solaire",
+          "energy_needs": "Modéré - Production d'énergie renouvelable avec stockage",
+          "opportunities": "Optimisation des systèmes de stockage par batterie via algorithmes prédictifs",
+          "details": "Développeur grec fondé en 2016. Possède un portefeuille de projets totalisant environ 4,2 GW, comprenant 1,8 GW d'éolien terrestre, 1,8 GW de photovoltaïque solaire et 0,6 GW de stockage par batterie.",
+          "market_cap": "Non coté",
+          "ai_initiatives": [
+            "Système de gestion énergétique basé sur l'IA",
+            "Optimisation prédictive du stockage",
+            "Équilibrage intelligent des sources hybrides"
+          ],
+          "energy_efficiency": "Réduction de 22% des pertes de stockage grâce aux algorithmes d'optimisation",
+          "future_outlook": "Expansion dans les marchés insulaires méditerranéens avec des systèmes hybrides intelligents"
+        }
+      ]
+    },
+    {
+      "name": "Infrastructures Numériques",
+      "description": "Les infrastructures numériques sont à la fois des facilitateurs et des consommateurs majeurs de l'IA, avec des besoins énergétiques considérables.",
+      "ai_trend": "La demande explosive pour les services d'IA génère un besoin urgent d'infrastructures numériques à haute performance, avec une croissance annuelle de 35-40% pour les centres de données spécialisés.",
+      "energy_impact": "Ces infrastructures sont généralement très énergivores, représentant jusqu'à 2% de la consommation électrique mondiale, avec une croissance rapide.",
+      "companies": [
+        {
+          "name": "euNetworks",
+          "country": "Europe",
+          "sector": "Smart Grids & Transmission",
+          "invested": "2.5 M€",
+          "ownership": "0.5%",
+          "returns": "13-15% (cible)",
+          "risk": "Value-add",
+          "ia_impact": "Très élevé - Infrastructure critique pour les centres de données IA",
+          "energy_needs": "Modéré - Consommation des réseaux de fibre optique",
+          "opportunities": "Expansion stratégique pour répondre à la demande croissante des hyperscalers IA",
+          "details": "Fournisseur européen de services de connectivité pour centres de données, reliant 508 centres de données via 82 400 km de câble, opérant dans 53 villes à travers 17 pays. Croissance du chiffre d'affaires de 3% et de l'EBITDAaL de 5% en octobre YTD.",
+          "market_cap": "Non coté (détenu par Stonepeak)",
+          "ai_initiatives": [
+            "Optimisation des routes de fibre par IA",
+            "Prédiction de la demande de bande passante",
+            "Maintenance prédictive du réseau"
+          ],
+          "energy_efficiency": "Réduction de 15% de la consommation énergétique par Gb transmis",
+          "future_outlook": "Expansion majeure prévue pour connecter les nouveaux centres de données IA en Europe du Nord"
+        },
+        {
+          "name": "Rowan Digital Infrastructure",
+          "country": "États-Unis",
+          "sector": "Infrastructures Numériques",
+          "invested": "10.50 $m (via Quinbrook)",
+          "ownership": "2.46%",
+          "returns": "2.3x TVPI",
+          "risk": "Value-add",
+          "ia_impact": "Très élevé - Centres de données verts pour l'IA",
+          "energy_needs": "Très élevé - Consommation massive pour les centres de données",
+          "opportunities": "Développement de centres de données à faible empreinte carbone pour l'IA",
+          "details": "Plateforme de centres de données verts aux États-Unis. Utilise du béton préfabriqué pour les projets Bauxite, réduisant l'empreinte carbone de 23% par rapport à la construction conventionnelle. Développe un système de traitement d'eau qui devrait réduire la consommation d'eau de la Phase 1 de plus de 80%.",
+          "market_cap": "Non coté",
+          "ai_initiatives": [
+            "Conception de centres de données optimisés pour l'IA",
+            "Systèmes de refroidissement intelligents",
+            "Gestion dynamique de la charge par IA"
+          ],
+          "energy_efficiency": "PUE (Power Usage Effectiveness) de 1.15 vs moyenne sectorielle de 1.57",
+          "future_outlook": "Expansion rapide avec 3 nouveaux campus en développement pour répondre à la demande d'AWS et autres hyperscalers"
+        }
+      ]
+    },
+    {
+      "name": "Infrastructures Électriques",
+      "description": "Les réseaux électriques intelligents sont essentiels pour supporter la demande croissante liée à l'IA tout en maintenant la stabilité du réseau.",
+      "ai_trend": "L'IA transforme les réseaux électriques traditionnels en systèmes intelligents capables d'optimiser la distribution et d'intégrer les sources d'énergie renouvelable variables.",
+      "energy_impact": "Ces infrastructures sont des facilitateurs clés de la transition énergétique, permettant une utilisation plus efficace des ressources.",
+      "companies": [
+        {
+          "name": "Aurora Infrastructure",
+          "country": "Finlande",
+          "sector": "Smart Grids & Transmission",
+          "invested": "5.2 M€",
+          "ownership": "0.2%",
+          "returns": "12%+ (cible)",
+          "risk": "Core",
+          "ia_impact": "Élevé - Réseaux intelligents essentiels pour l'optimisation énergétique de l'IA",
+          "energy_needs": "Faible - Transmission plutôt que consommation",
+          "opportunities": "Modernisation des réseaux pour supporter la demande croissante des centres de données IA",
+          "details": "Entreprise nordique spécialisée dans la possession, l'exploitation et la modernisation des infrastructures de réseaux électriques privés. Possède les réseaux électriques de deux des plus grands sites industriels stratégiquement importants de Finlande, représentant 6% de la consommation électrique finlandaise.",
+          "market_cap": "Non coté",
+          "ai_initiatives": [
+            "Réseau électrique auto-adaptatif",
+            "Prévision de charge par apprentissage profond",
+            "Détection précoce des anomalies"
+          ],
+          "energy_efficiency": "Réduction de 8% des pertes de transmission grâce à l'optimisation IA",
+          "future_outlook": "Expansion stratégique pour connecter les nouveaux centres de données IA en Finlande et Suède"
+        },
+        {
+          "name": "Telecom Castilla La Mancha",
+          "country": "Espagne",
+          "sector": "Smart Grids & Transmission",
+          "invested": "3 M€",
+          "ownership": "5%",
+          "returns": "9.8% / 10.3%",
+          "risk": "Core",
+          "ia_impact": "Modéré - Infrastructure de communication pour les réseaux intelligents",
+          "energy_needs": "Faible - Consommation limitée des tours de télécommunication",
+          "opportunities": "Déploiement de la 5G rurale pour soutenir les applications IA distribuées",
+          "details": "Principal fournisseur de location à long terme de tours de télécommunications à Castilla La Mancha, Espagne. Son réseau comprend 1 038 sites, principalement dans les zones rurales. Dans le cadre du déploiement national d'équipements 5G ruraux, 270 des tours de TCLM recevront de nouveaux équipements et des contrats de location à long terme avec Telefonica.",
+          "market_cap": "Non coté",
+          "ai_initiatives": [
+            "Optimisation de l'emplacement des antennes par IA",
+            "Maintenance prédictive des tours",
+            "Gestion intelligente de l'énergie des sites"
+          ],
+          "energy_efficiency": "Réduction de 25% de la consommation énergétique des sites grâce aux systèmes intelligents",
+          "future_outlook": "Positionnement stratégique pour le déploiement de l'edge computing rural"
+        }
+      ]
+    }
+  ],
+  "ai_energy_summary": {
+    "title": "Synthèse de l'Impact IA et des Besoins Énergétiques",
+    "key_findings": [
+      "Les infrastructures numériques sont les plus exposées à la révolution IA, avec un impact très élevé et des besoins énergétiques considérables",
+      "Les énergies renouvelables bénéficient de l'IA pour l'optimisation, avec un impact modéré à élevé et des besoins énergétiques faibles",
+      "Les infrastructures électriques sont essentielles pour supporter la demande IA, avec un impact élevé mais des besoins énergétiques limités"
+    ],
+    "portfolio_exposure": {
+      "high_impact": 35,
+      "moderate_impact": 45,
+      "low_impact": 20
+    },
+    "energy_needs": {
+      "high": 25,
+      "moderate": 35,
+      "low": 40
+    },
+    "strategic_opportunities": [
+      "Développement de centres de données verts spécialisés pour l'IA",
+      "Optimisation des énergies renouvelables par l'IA pour améliorer les rendements",
+      "Modernisation des réseaux électriques pour supporter la demande croissante des applications IA",
+      "Déploiement de l'edge computing pour réduire la latence et la consommation énergétique"
+    ]
+  },
+  "future_trends": {
+    "title": "Tendances Futures et Implications Stratégiques",
+    "trends": [
+      {
+        "name": "Explosion de la demande pour les infrastructures IA",
+        "description": "La croissance exponentielle des applications d'IA générative crée une demande sans précédent pour les centres de données spécialisés et les infrastructures de support.",
+        "impact": "Très positif pour les actifs d'infrastructure numérique du portefeuille, avec des perspectives de croissance accélérée."
+      },
+      {
+        "name": "Convergence IA-Énergie",
+        "description": "L'IA devient un outil essentiel pour optimiser la production, la distribution et la consommation d'énergie à tous les niveaux.",
+        "impact": "Positif pour les actifs d'énergie renouvelable et de réseaux intelligents, qui peuvent améliorer leur efficacité et leur rentabilité."
+      },
+      {
+        "name": "Décentralisation de l'IA",
+        "description": "Développement de l'edge computing et des applications IA locales pour réduire la latence et la consommation énergétique.",
+        "impact": "Opportunité pour les infrastructures de télécommunication rurales et les réseaux de distribution."
+      },
+      {
+        "name": "Pression réglementaire sur l'efficacité énergétique",
+        "description": "Renforcement des exigences en matière d'efficacité énergétique pour les centres de données et autres infrastructures numériques.",
+        "impact": "Avantage compétitif pour les actifs du portefeuille déjà optimisés pour l'efficacité énergétique."
+      }
+    ],
+    "strategic_recommendations": [
+      "Prioriser les investissements dans les infrastructures numériques vertes optimisées pour l'IA",
+      "Accélérer l'adoption des technologies IA dans les actifs d'énergie renouvelable existants",
+      "Développer des partenariats stratégiques entre les actifs d'infrastructure numérique et d'énergie renouvelable",
+      "Explorer les opportunités dans l'edge computing et les applications IA décentralisées"
+    ]
+  }
+}
