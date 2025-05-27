@@ -1,0 +1,254 @@
+{
+  "fund_data": {
+    "title": "Données Complètes du Fonds",
+    "subtitle": "Analyse financière détaillée et composition du portefeuille",
+    "introduction": "Cette section présente une analyse approfondie des données financières du fonds Patrimonium Climate Infrastructure Opportunity, incluant le bilan, le compte de résultat, les flux de trésorerie et la composition détaillée du portefeuille.",
+    "balance_sheet": {
+      "title": "Bilan Détaillé",
+      "description": "État de la situation financière du fonds au 31 décembre 2024",
+      "assets": {
+        "investments": [
+          { "name": "Patrimonium Climate Infra S.A.", "value": 0, "percentage": 0, "category": "Holding" },
+          { "name": "Equitix Fund VI", "value": 9622.2, "percentage": 10.94, "category": "Primaire" },
+          { "name": "ICG Infrastructure EF", "value": 6969.2, "percentage": 7.92, "category": "Primaire" },
+          { "name": "Quinbrook Net Zero Power Fund", "value": 9300.1, "percentage": 10.57, "category": "Primaire" },
+          { "name": "Omnes Co-investment Tag", "value": 4747.5, "percentage": 5.40, "category": "Co-investissement" },
+          { "name": "Equitix Co-investment Aurora Infra", "value": 12198.3, "percentage": 13.87, "category": "Co-investissement" },
+          { "name": "Equitix Euro Fund I", "value": 8330.8, "percentage": 9.47, "category": "Primaire" },
+          { "name": "Quinbrook Co-investment", "value": 9141.1, "percentage": 10.39, "category": "Co-investissement" },
+          { "name": "Omnes Capenergie 5", "value": 2176.0, "percentage": 2.47, "category": "Primaire" },
+          { "name": "Stonepeak euNetworks", "value": 12488.7, "percentage": 14.20, "category": "Secondaire" },
+          { "name": "EIG Powerfield", "value": 10403.5, "percentage": 11.83, "category": "Secondaire" }
+        ],
+        "other_assets": [
+          { "name": "Frais d'établissement", "value": 30.4, "percentage": 0.03 },
+          { "name": "Trésorerie et équivalents", "value": 2484.3, "percentage": 2.82 },
+          { "name": "Débiteurs et paiements anticipés", "value": 4.2, "percentage": 0.01 },
+          { "name": "Comptes à recevoir", "value": 78.8, "percentage": 0.09 }
+        ],
+        "total_assets": 87975.2
+      },
+      "equity_liabilities": {
+        "equity": [
+          { "name": "Capital souscrit", "value": 82182.5, "percentage": 93.42 },
+          { "name": "Distributions", "value": -4100.0, "percentage": -4.66 },
+          { "name": "Résultat attribuable", "value": 10057.4, "percentage": 11.43 },
+          { "name": "Carried interest notionnel", "value": 957.1, "percentage": 1.09 },
+          { "name": "Réserve de revenus", "value": -1292.7, "percentage": -1.47 }
+        ],
+        "liabilities": [
+          { "name": "Créanciers à court terme", "value": 170.9, "percentage": 0.19 },
+          { "name": "Créanciers à long terme", "value": 0, "percentage": 0 }
+        ],
+        "total_equity": 87804.3,
+        "total_liabilities": 170.9,
+        "total_equity_liabilities": 87975.2
+      },
+      "key_ratios": {
+        "debt_to_equity": 0.002,
+        "current_ratio": 15.02,
+        "asset_coverage": 514.78
+      }
+    },
+    "profit_loss": {
+      "title": "Compte de Résultat",
+      "description": "Performance financière du fonds pour l'exercice clos le 31 décembre 2024",
+      "income": [
+        { "name": "Revenus d'investissement", "value": 694.8, "percentage": 90.15 },
+        { "name": "Autres revenus", "value": 75.9, "percentage": 9.85 }
+      ],
+      "expenses": [
+        { "name": "Frais généraux d'organisation", "value": -6.2, "percentage": 0.36 },
+        { "name": "Amortissement", "value": -30.4, "percentage": 1.75 },
+        { "name": "Frais de gestion", "value": -775.6, "percentage": 44.59 },
+        { "name": "Frais AIFM", "value": -62.7, "percentage": 3.60 },
+        { "name": "Frais d'administration", "value": -115.0, "percentage": 6.61 },
+        { "name": "Frais d'audit et juridiques", "value": -32.9, "percentage": 1.89 },
+        { "name": "Honoraires professionnels", "value": -164.8, "percentage": 9.47 },
+        { "name": "Frais de transaction", "value": 0, "percentage": 0 },
+        { "name": "Frais bancaires et dépositaire", "value": -57.7, "percentage": 3.32 },
+        { "name": "Frais d'égalisation", "value": -551.2, "percentage": 31.69 },
+        { "name": "TVA et taxes", "value": -29.2, "percentage": 1.68 },
+        { "name": "Gain/perte de change", "value": 86.3, "percentage": -4.96 }
+      ],
+      "gains_losses": [
+        { "name": "Plus/moins-values latentes sur investissements", "value": 9140.5, "percentage": 76.28 },
+        { "name": "Plus/moins-values latentes de change", "value": 1122.7, "percentage": 9.37 },
+        { "name": "Plus/moins-values réalisées sur investissements", "value": 1720.1, "percentage": 14.35 }
+      ],
+      "total_income": 770.7,
+      "total_expenses": -1739.4,
+      "total_gains_losses": 11983.2,
+      "profit_loss": 11014.5,
+      "key_ratios": {
+        "expense_ratio": 2.12,
+        "management_fee_ratio": 0.94,
+        "return_on_invested_capital": 13.40
+      }
+    },
+    "cashflow": {
+      "title": "Tableau des Flux de Trésorerie",
+      "description": "Mouvements de trésorerie du fonds pour l'exercice clos le 31 décembre 2024",
+      "operating_activities": [
+        { "name": "Résultat net", "value": 11014.5 },
+        { "name": "Ajustements pour éléments non monétaires", "value": -10232.8 },
+        { "name": "Variation du fonds de roulement", "value": 95.6 }
+      ],
+      "investing_activities": [
+        { "name": "Acquisitions d'investissements", "value": -25412.3 },
+        { "name": "Cessions d'investissements", "value": 5820.1 }
+      ],
+      "financing_activities": [
+        { "name": "Appels de capitaux", "value": 15382.5 },
+        { "name": "Distributions", "value": -4100.0 }
+      ],
+      "net_cash_flow": -7432.4,
+      "opening_cash": 9916.7,
+      "closing_cash": 2484.3
+    },
+    "portfolio_analysis": {
+      "title": "Analyse Détaillée du Portefeuille",
+      "description": "Composition et performance du portefeuille d'investissements",
+      "portfolio_composition": {
+        "by_investment_type": [
+          { "type": "Primaire", "value": 36398.3, "percentage": 43.0, "count": 4 },
+          { "type": "Co-investissement", "value": 26086.9, "percentage": 30.8, "count": 3 },
+          { "type": "Secondaire", "value": 22892.2, "percentage": 27.0, "count": 2 }
+        ],
+        "by_geography": [
+          { "region": "Europe", "value": 63502.1, "percentage": 75.0 },
+          { "region": "Amérique du Nord", "value": 15229.3, "percentage": 18.0 },
+          { "region": "Reste du monde OCDE", "value": 5923.3, "percentage": 7.0 }
+        ],
+        "by_sector": [
+          { "sector": "Énergies Renouvelables", "value": 27078.4, "percentage": 32.0 },
+          { "sector": "Réseaux Intelligents & Transmission", "value": 27078.4, "percentage": 32.0 },
+          { "sector": "Stockage d'Énergie & Énergie Décentralisée", "value": 17771.7, "percentage": 21.0 },
+          { "sector": "Mobilité Propre", "value": 6770.8, "percentage": 8.0 },
+          { "sector": "Infrastructures Sociales", "value": 3385.4, "percentage": 4.0 },
+          { "sector": "Efficacité Énergétique & des Ressources", "value": 1692.7, "percentage": 2.0 }
+        ],
+        "by_risk_profile": [
+          { "profile": "Core", "value": 38088.3, "percentage": 45.0 },
+          { "profile": "Core+", "value": 25392.2, "percentage": 30.0 },
+          { "profile": "Value-add", "value": 21160.2, "percentage": 25.0 }
+        ]
+      },
+      "top_investments": {
+        "by_value": [
+          { "name": "Stonepeak euNetworks", "value": 12488.7, "percentage": 14.20, "performance": "+15.3%" },
+          { "name": "Equitix Co-investment Aurora Infra", "value": 12198.3, "percentage": 13.87, "performance": "+12.1%" },
+          { "name": "EIG Powerfield", "value": 10403.5, "percentage": 11.83, "performance": "+18.7%" },
+          { "name": "Equitix Fund VI", "value": 9622.2, "percentage": 10.94, "performance": "+8.9%" },
+          { "name": "Quinbrook Net Zero Power Fund", "value": 9300.1, "percentage": 10.57, "performance": "+27.0%" }
+        ],
+        "by_performance": [
+          { "name": "Quinbrook Co-investment", "value": 9141.1, "percentage": 10.39, "performance": "+63.0%" },
+          { "name": "Quinbrook Net Zero Power Fund", "value": 9300.1, "percentage": 10.57, "performance": "+27.0%" },
+          { "name": "EIG Powerfield", "value": 10403.5, "percentage": 11.83, "performance": "+18.7%" },
+          { "name": "Stonepeak euNetworks", "value": 12488.7, "percentage": 14.20, "performance": "+15.3%" },
+          { "name": "Equitix Co-investment Aurora Infra", "value": 12198.3, "percentage": 13.87, "performance": "+12.1%" }
+        ]
+      },
+      "performance_attribution": {
+        "by_investment_type": [
+          { "type": "Primaire", "contribution": 3.2, "percentage": 29.1 },
+          { "type": "Co-investissement", "contribution": 5.1, "percentage": 46.3 },
+          { "type": "Secondaire", "contribution": 2.7, "percentage": 24.6 }
+        ],
+        "by_geography": [
+          { "region": "Europe", "contribution": 7.5, "percentage": 68.1 },
+          { "region": "Amérique du Nord", "contribution": 3.1, "percentage": 28.2 },
+          { "region": "Reste du monde OCDE", "contribution": 0.4, "percentage": 3.7 }
+        ],
+        "by_sector": [
+          { "sector": "Énergies Renouvelables", "contribution": 3.8, "percentage": 34.5 },
+          { "sector": "Réseaux Intelligents & Transmission", "contribution": 2.9, "percentage": 26.4 },
+          { "sector": "Stockage d'Énergie & Énergie Décentralisée", "contribution": 2.5, "percentage": 22.7 },
+          { "sector": "Mobilité Propre", "contribution": 1.1, "percentage": 10.0 },
+          { "sector": "Infrastructures Sociales", "contribution": 0.5, "percentage": 4.5 },
+          { "sector": "Efficacité Énergétique & des Ressources", "contribution": 0.2, "percentage": 1.9 }
+        ]
+      }
+    },
+    "investment_outlook": {
+      "title": "Perspectives d'Investissement",
+      "description": "Stratégie et perspectives pour les prochains trimestres",
+      "market_outlook": {
+        "title": "Perspectives de Marché",
+        "trends": [
+          {
+            "name": "Transition Énergétique Accélérée",
+            "description": "Les politiques publiques et les engagements privés continuent de soutenir une accélération des investissements dans la transition énergétique.",
+            "impact": "Très positif pour le portefeuille, avec des opportunités croissantes dans les énergies renouvelables et les infrastructures de support."
+          },
+          {
+            "name": "Révolution de l'IA",
+            "description": "La demande explosive pour les services d'IA génère des besoins sans précédent en infrastructures numériques et énergétiques.",
+            "impact": "Positif pour les investissements dans les centres de données verts et les réseaux de transmission."
+          },
+          {
+            "name": "Normalisation des Taux d'Intérêt",
+            "description": "Les banques centrales ont amorcé un cycle d'assouplissement monétaire qui devrait se poursuivre en 2025.",
+            "impact": "Positif pour les valorisations des actifs d'infrastructure et les conditions de financement."
+          },
+          {
+            "name": "Tensions Géopolitiques",
+            "description": "Les tensions persistantes créent des incertitudes mais renforcent aussi la priorité donnée à la sécurité énergétique.",
+            "impact": "Mixte, avec des risques mais aussi des opportunités liées à la relocalisation des infrastructures critiques."
+          }
+        ]
+      },
+      "pipeline": {
+        "title": "Pipeline d'Investissement",
+        "description": "Le fonds dispose d'un pipeline robuste d'opportunités d'investissement pour les prochains trimestres.",
+        "opportunities": [
+          {
+            "name": "Expansion Stockage d'Énergie",
+            "type": "Co-investissement",
+            "region": "Europe du Sud",
+            "size": "15-20 M€",
+            "expected_return": "12-14%",
+            "status": "Due diligence avancée"
+          },
+          {
+            "name": "Plateforme Mobilité Électrique",
+            "type": "Primaire",
+            "region": "Europe du Nord",
+            "size": "10-12 M€",
+            "expected_return": "9-11%",
+            "status": "Négociations exclusives"
+          },
+          {
+            "name": "Portefeuille Solaire Distribué",
+            "type": "Secondaire",
+            "region": "Amérique du Nord",
+            "size": "8-10 M€",
+            "expected_return": "10-12%",
+            "status": "Analyse préliminaire"
+          }
+        ],
+        "total_pipeline": "~40 M€",
+        "expected_deployment": "12-18 mois"
+      },
+      "exit_strategy": {
+        "title": "Stratégie de Sortie",
+        "description": "Le fonds a commencé à préparer les stratégies de sortie pour certains actifs plus matures.",
+        "planned_exits": [
+          {
+            "name": "Portefeuille Éolien Terrestre",
+            "expected_timing": "Q3 2025",
+            "expected_multiple": "1.8-2.0x",
+            "exit_route": "Vente stratégique à un opérateur industriel"
+          },
+          {
+            "name": "Infrastructure de Recharge",
+            "expected_timing": "Q1 2026",
+            "expected_multiple": "2.2-2.5x",
+            "exit_route": "Introduction en bourse ou vente à un fonds d'infrastructure"
+          }
+        ]
+      }
+    }
+  }
+}

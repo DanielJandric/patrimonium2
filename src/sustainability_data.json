@@ -1,0 +1,213 @@
+{
+  "sustainability": {
+    "title": "Durabilité et Impact Environnemental",
+    "subtitle": "Contribution du fonds aux objectifs de développement durable",
+    "introduction": "Le fonds Patrimonium Climate Infrastructure Opportunity est fortement engagé dans la transition énergétique et la lutte contre le changement climatique. Cette section présente les impacts environnementaux positifs générés par les investissements du fonds.",
+    "impact_metrics": {
+      "title": "Métriques d'Impact Clés",
+      "metrics": [
+        {
+          "name": "Émissions de GES évitées",
+          "value": "56 519",
+          "unit": "tonnes CO2e/an",
+          "description": "Équivalent aux émissions annuelles de 12 000 voitures européennes",
+          "icon": "leaf",
+          "color": "green"
+        },
+        {
+          "name": "Énergie propre produite",
+          "value": "63.5",
+          "unit": "GWh/an",
+          "description": "Équivalent à la consommation annuelle de 18 000 foyers européens",
+          "icon": "sun",
+          "color": "yellow"
+        },
+        {
+          "name": "Capacité électrique propre",
+          "value": "2 063",
+          "unit": "MW",
+          "description": "Contribution significative aux objectifs européens de capacité renouvelable",
+          "icon": "zap",
+          "color": "blue"
+        },
+        {
+          "name": "Compteurs intelligents",
+          "value": "84 167",
+          "unit": "foyers",
+          "description": "Permettant une gestion plus efficace de la consommation énergétique",
+          "icon": "activity",
+          "color": "purple"
+        },
+        {
+          "name": "Réseaux de fibre optique",
+          "value": "175",
+          "unit": "km",
+          "description": "Infrastructure essentielle pour la digitalisation et l'efficacité énergétique",
+          "icon": "wifi",
+          "color": "teal"
+        }
+      ]
+    },
+    "sdg_alignment": {
+      "title": "Alignement avec les Objectifs de Développement Durable de l'ONU",
+      "description": "Le fonds contribue directement à plusieurs ODD, avec un impact particulièrement fort sur les objectifs liés à l'énergie et au climat.",
+      "primary_sdgs": [
+        {
+          "number": 7,
+          "name": "Énergie propre et d'un coût abordable",
+          "contribution": "Investissements directs dans les énergies renouvelables et les infrastructures de transmission",
+          "alignment_score": 95,
+          "examples": [
+            "Parcs éoliens et solaires en Europe",
+            "Infrastructures hydroélectriques en Italie",
+            "Réseaux intelligents en Finlande"
+          ]
+        },
+        {
+          "number": 9,
+          "name": "Industrie, innovation et infrastructure",
+          "contribution": "Développement d'infrastructures résilientes et durables",
+          "alignment_score": 90,
+          "examples": [
+            "Réseaux de fibre optique en Europe",
+            "Centres de données verts aux États-Unis",
+            "Infrastructures de télécommunication en Espagne"
+          ]
+        },
+        {
+          "number": 13,
+          "name": "Mesures relatives à la lutte contre les changements climatiques",
+          "contribution": "Réduction des émissions de GES et adaptation au changement climatique",
+          "alignment_score": 85,
+          "examples": [
+            "Systèmes de stockage d'énergie",
+            "Optimisation des réseaux électriques",
+            "Centres de données à faible empreinte carbone"
+          ]
+        }
+      ],
+      "secondary_sdgs": [
+        {
+          "number": 11,
+          "name": "Villes et communautés durables",
+          "contribution": "Infrastructures urbaines plus efficaces et durables",
+          "alignment_score": 70
+        },
+        {
+          "number": 12,
+          "name": "Consommation et production responsables",
+          "contribution": "Optimisation de l'utilisation des ressources",
+          "alignment_score": 65
+        },
+        {
+          "number": 8,
+          "name": "Travail décent et croissance économique",
+          "contribution": "Création d'emplois dans les secteurs verts",
+          "alignment_score": 60
+        }
+      ]
+    },
+    "esg_integration": {
+      "title": "Intégration ESG dans le Processus d'Investissement",
+      "description": "Les critères ESG sont pleinement intégrés à toutes les étapes du processus d'investissement, de l'identification des opportunités à la gestion active des actifs.",
+      "process": [
+        {
+          "stage": "Due Diligence",
+          "description": "Évaluation approfondie des risques et opportunités ESG pour chaque investissement potentiel",
+          "tools": [
+            "Grille d'analyse ESG propriétaire",
+            "Évaluation de l'alignement avec la taxonomie européenne",
+            "Analyse des risques climatiques physiques et de transition"
+          ]
+        },
+        {
+          "stage": "Décision d'Investissement",
+          "description": "Les critères ESG sont des facteurs déterminants dans les décisions d'investissement",
+          "tools": [
+            "Scoring ESG minimum requis",
+            "Exclusion des activités controversées",
+            "Évaluation de la contribution aux ODD"
+          ]
+        },
+        {
+          "stage": "Gestion Active",
+          "description": "Suivi et amélioration continue des performances ESG des actifs en portefeuille",
+          "tools": [
+            "KPIs ESG spécifiques pour chaque actif",
+            "Plans d'action ESG avec objectifs mesurables",
+            "Reporting ESG régulier"
+          ]
+        },
+        {
+          "stage": "Reporting",
+          "description": "Communication transparente sur les performances ESG du fonds",
+          "tools": [
+            "Rapport annuel d'impact",
+            "Alignement avec les recommandations de la TCFD",
+            "Reporting conforme à l'article 9 SFDR"
+          ]
+        }
+      ]
+    },
+    "case_studies": {
+      "title": "Études de Cas: Impact Environnemental",
+      "cases": [
+        {
+          "name": "Dolomiti Energia",
+          "sector": "Énergie Hydroélectrique",
+          "location": "Italie",
+          "impact": {
+            "emissions_avoided": "12 500 tonnes CO2e/an",
+            "clean_energy": "28.3 GWh/an",
+            "other_benefits": "Gestion durable des ressources en eau, protection de la biodiversité locale"
+          },
+          "description": "Les centrales hydroélectriques de Dolomiti Energia ont surperformé en 2024 grâce à des conditions hydrologiques favorables et à l'optimisation de la production via des systèmes IA. Le projet inclut également des mesures de protection de la biodiversité aquatique et de gestion durable des ressources en eau."
+        },
+        {
+          "name": "Rowan Digital Infrastructure",
+          "sector": "Centres de Données",
+          "location": "États-Unis",
+          "impact": {
+            "energy_efficiency": "PUE de 1.15 vs moyenne sectorielle de 1.57",
+            "water_savings": "80% de réduction de la consommation d'eau",
+            "carbon_reduction": "23% de réduction de l'empreinte carbone de construction"
+          },
+          "description": "Les centres de données de Rowan représentent une nouvelle génération d'infrastructures numériques conçues pour minimiser leur impact environnemental tout en répondant à la demande croissante liée à l'IA. L'utilisation de béton préfabriqué, de systèmes de refroidissement innovants et d'énergies renouvelables permet de réduire significativement l'empreinte carbone."
+        }
+      ]
+    },
+    "future_initiatives": {
+      "title": "Initiatives Futures et Objectifs",
+      "initiatives": [
+        {
+          "name": "Net Zero 2040",
+          "description": "Engagement à atteindre la neutralité carbone pour l'ensemble du portefeuille d'ici 2040",
+          "milestones": [
+            "2025: Finalisation des évaluations d'empreinte carbone pour 100% du portefeuille",
+            "2030: Réduction de 50% des émissions par rapport à 2020",
+            "2035: Réduction de 75% des émissions par rapport à 2020",
+            "2040: Neutralité carbone (émissions résiduelles compensées)"
+          ]
+        },
+        {
+          "name": "Biodiversité Positive",
+          "description": "Développement d'une stratégie d'impact positif sur la biodiversité",
+          "milestones": [
+            "2025: Évaluation de l'impact sur la biodiversité pour tous les actifs",
+            "2027: Mise en œuvre de plans d'action biodiversité pour les actifs à fort impact",
+            "2030: Impact net positif sur la biodiversité pour 50% du portefeuille"
+          ]
+        },
+        {
+          "name": "Circularité",
+          "description": "Intégration des principes d'économie circulaire dans la gestion des actifs",
+          "milestones": [
+            "2025: Évaluation de la circularité pour tous les nouveaux investissements",
+            "2028: 50% de réduction des déchets non recyclés",
+            "2030: 80% de matériaux recyclés ou réutilisés en fin de vie"
+          ]
+        }
+      ]
+    }
+  }
+}
